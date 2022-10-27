@@ -1,5 +1,5 @@
-01 Nom:
-01 github:
+01 Nom:Corentin Le Gall
+01 github:Corentin-LeGall
 02 Nom: Soussi Skander
 02 github:Wa1sup
 03 Nom:Thomas Chesseboeuf
